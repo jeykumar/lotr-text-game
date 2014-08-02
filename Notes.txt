@@ -1,0 +1,3 @@
+Change stats (maybe HP also) to make player win more often
+
+Make Legolas' HP higher
